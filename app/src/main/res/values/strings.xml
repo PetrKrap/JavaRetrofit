@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">User Repo</string>
+    <string name="user">Пользователь</string>
+    <string name="uname">Имя пользователя</string>
+    <string name="know">Репрезитории</string>
+    <string name="enter">Введите имя пользователя GitHub</string>
+    <string name="Repr">Список репрезиториев</string>
+</resources>
